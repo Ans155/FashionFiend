@@ -1,0 +1,2 @@
+_PINECONE_API_KEY = "pcsk_LVCsj_TySoJBnDDGTpMSR9Std7rLw4gzssrx1azLCyG1BdLaqswTBC9fcZdruRcLb4v1X"
+_SERPER_API_KEY = "a7c4396a7edac6dce34aeace51826617c1e3cb7b"
